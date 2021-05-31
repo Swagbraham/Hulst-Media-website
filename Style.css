@@ -83,7 +83,7 @@ header a:hover{
 /*Showcase}*/
 #showcase{
 	min-height: 400px;
-	background:url('./img//img/HulstIntrofull.mp4') no-repeat;
+	background:url('./img/HulstIntrofull.mp4') no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center center;
